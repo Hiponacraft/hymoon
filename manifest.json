@@ -2,9 +2,7 @@
   "server_name": "hymoon",
   "nice_name": "HyMoon Network",
   "direct_ip": "play.hymoon.tk",
-  "supported_languages": [
-    "es"
-  ],
+  "supported_languages": "es",
   "social": {
     "web_shop": "https://hymoon-tienda.tebex.io",
     "twitter": "HyMoonES",
